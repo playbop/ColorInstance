@@ -16,7 +16,7 @@ Grab the latest **`ColorInstance-1.0.0-arm64.zip`** from the [**Releases**](http
 
 ### Requirements
 - **Apple Silicon Mac** (M1 or newer)
-- **macOS 14.0 (Sonoma)** or later
+- **macOS 14.6 (Sonoma)** or later
 
 ### First Launch (Unnotarized Build)
 Because this is a free, unnotarized standalone build, macOS Gatekeeper will prompt on the first double-click.
